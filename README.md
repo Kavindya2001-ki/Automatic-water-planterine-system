@@ -1,1 +1,1 @@
-# Automatic-water-planterine-system
+# Automatic-water-plantering-system
